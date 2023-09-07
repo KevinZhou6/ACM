@@ -1,1 +1,1 @@
-# mathematical theorem
+# Mathematical theorem
